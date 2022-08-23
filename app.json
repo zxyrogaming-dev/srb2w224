@@ -1,5 +1,7 @@
 {
-  "name": "SRB2 for Web!"
-  "description": "The title says what it does, its SRB2 in web!"
-  
+	"name": "SRB2 For Web!",
+	"description": "Hey kids! You tired of doing that schoolwork that probably may not be useful in the future? Well SRB2 for Web is here for you!",
+	"repository": "https://github.com/e9x/srb2w224",
+	"logo": "https://git.holy.how/holy/website/raw/branch/master/src/assets/hat.svg",
+	"keywords": ["SRB2", "Web"]
 }
